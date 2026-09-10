@@ -1,4 +1,4 @@
-# Olá, eu sou o João <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" />!
+# Olá, eu sou o João! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" />
 
 ### 🛡️ Entusiasta de Cibersegurança | Estudante de Engenharia da Computação | Analista de Suporte
 
