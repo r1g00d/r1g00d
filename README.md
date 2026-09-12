@@ -1,6 +1,6 @@
-# Oi, eu sou o João! 🐉
+# Oi, eu sou o João! 
 
-<img width="80" height="80" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
+<img width="90" height="90" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
 
 ```text
 > BOOT SEQUENCE INICIADA...
@@ -20,12 +20,12 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 
 ## 🕶️ Dossiê do Operador
 
-- 🎓 Cursando **Engenharia da Computação** — Universidade de Franca (**UNIFRAN**)
+- 🎓 Cursando **Engenharia da Software** — Universidade de Franca (**UNIFRAN**)
 - 💼 **Analista de Suporte de Campo** — 3+ anos em infraestrutura e resolução de problemas corporativos
 - 🔴 Participante do programa **Hackers do Bem**
-- 💻 Usuário avançado de **Kali Linux**, com automação via shell scripting
-- 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy**
-- 👾 Fora do terminal: mestre de **D&D (5.5)**, criador de mapas customizados e dev do **Dungeon of Goblins** — RPG de texto em Python/Flask
+- 💻 Usuário intermediário de **Kali Linux 🐉🔷**, com automação via shell scripting
+- 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy** and **TryHackMe** diariamente 
+- 👾 Fora do terminal: mestre de **D&D**, criador de mapas customizados e dev do **Dungeon of Goblins** — RPG de texto em Python/Flask
 
 ---
 
@@ -35,7 +35,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <tr align="center">
 <td>
 
-<img alt="PRE SEC" src="https://img.shields.io/badge/PRE_SEC-CONCLUÍDO-39FF14?style=for-the-badge&labelColor=0d1117" /><br/>
+<img alt="THM PRE SEC" src="https://img.shields.io/badge/PRE_SEC-CONCLUÍDO-39FF14?style=for-the-badge&labelColor=0d1117" /><br/>
 <sub>✅ nó comprometido</sub>
 
 </td>
@@ -72,7 +72,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <td><strong>🕶️ OSINT</strong></td>
 <td>
 <img alt="Shodan" src="https://img.shields.io/badge/Shodan-FF4D4D?style=for-the-badge&logo=shodan&logoColor=white" />
-<img alt="OSINT" src="https://img.shields.io/badge/OSINT-Sherlock_|_Maigret-4B0082?style=for-the-badge" />
+<img alt="OSINT" src="https://img.shields.io/badge/Sherlock_|_Maigret-4B0082?style=for-the-badge" />
 </td>
 </tr>
 <tr>
@@ -87,8 +87,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <td>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C++?style=for-the-badge&logo=flask&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -107,7 +106,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 
 ### 🔴 [TR1GG3R SIEM](https://github.com/r1g00d/trigger_siem) <img src="https://img.shields.io/badge/★-PROJETO_PRINCIPAL-FF003C?style=flat-square&labelColor=0d1117" />
 
-IDS/WAF educacional em **Python puro** (stdlib apenas, zero dependências externas), com frontend HTML/CSS/JS vanilla e interface estilo "Liquid Glass".
+IDS/WAF educacional em **Python puro** (stdlib apenas, zero dependências externas), com frontend HTML/CSS/JS (vibe coded).
 
 ```text
 $ trigger_siem --status
@@ -140,9 +139,9 @@ Plataforma educacional de geografia, biomas e geopolítica brasileira — projet
 
 | Empresa | Cargo | Foco |
 |---|---|---|
-| **Positivo Tecnologia** | TI Júnior | Suporte de campo, gestão de sistemas |
-| **Solutis / Projeto Sabesp** | Field Support | Infraestrutura, Active Directory, Hardware |
-| **Magazine Luiza** | Infraestrutura de TI | Suporte de campo, gestão de sistemas |
+| **Positivo Tecnologia** | T.I Júnior | Suporte de campo, gestão de sistemas |
+| **Solutis / Projeto Sabesp** | Analista de T.I PL | Infraestrutura, Active Directory, Hardware |
+| **Magazine Luiza** | Assistente PL de Atendimento | Suporte em questões criticas, gestão de sistemas e melhoria contínua |
 
 ---
 
@@ -167,6 +166,9 @@ Buscando: pentest real, com supervisão_
   </a>
   <a href="mailto:r11gg0d@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://tryhackme.com/p/r11gg0d">
+    <img src="https://img.shields.io/badge/TRYHACKME?link=https%3A%2F%2Ftryhackme.com%2F_next%2Fstatic%2Fmedia%2Ftryhackme_logo_full_dark.406f839bc8453d32.svg" alt="TRYHACKME">
   </a>
 </p>
 
