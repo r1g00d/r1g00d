@@ -1,8 +1,8 @@
-# Olá, eu sou o João! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" />
+# Olá, eu sou o João! <img width="64" height="64" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
 
-### 🛡️ Entusiasta de Cibersegurança | Estudante de Engenharia da Computação | Analista de Suporte
+### 🛡️ Estudante de Cibersegurança | Estudante de Engenharia de Software | Analista de Suporte
 
-Sou apaixonado por tecnologia e segurança da informação, com foco no desenvolvimento de automações e na exploração de sistemas. Atualmente, estou direcionando minha carreira para posições de nível de entrada em **Red Team** e **Blue Team**, aplicando meus conhecimentos em arquitetura de redes, OSINT e customização de ambientes Linux.
+Sou apaixonado por tecnologia e segurança da informação, com foco no desenvolvimento de automações e na exploração de sistemas. Atualmente, estou direcionando minha carreira para posições de nível de entrada em **Red Team**, com estudo complementar de **Blue Team/SOC**, aplicando meus conhecimentos em arquitetura de redes, OSINT e customização de ambientes Linux.
 
 <p>
   <img alt="Status" src="https://img.shields.io/badge/Status-Aberto_a_oportunidades-brightgreen?style=for-the-badge" />
@@ -17,9 +17,9 @@ Sou apaixonado por tecnologia e segurança da informação, com foco no desenvol
 - 💼 Atuando como **Analista de Suporte de Campo**, com sólida experiência em resolução de problemas, operações e infraestrutura de TI corporativa (3+ anos)
 - 🔐 Participante do programa **Hackers do Bem** e pesquisador ativo de protocolos de rede e ferramentas de segurança
 - 🏆 **PRE SEC** certificado (TryHackMe) | **eJPT** em andamento | **OSCP** como meta de longo prazo
-- 🐧 Usuário avançado de **Linux** (Parrot OS / KDE Plasma, dual-boot Windows) e entusiasta de automação via shell scripting
+- 🐧 Usuário avançado de **Kali Linux** e entusiasta de automação via shell scripting
 - 🎯 Prática hands-on: 3+ máquinas exploradas no **HackTheBox** (reconhecimento, enumeração, exploitation) + trilhas no **PortSwigger Academy**
-- 🎲 Nas horas vagas, organizo campanhas de **Dungeons & Dragons (5.5)**, crio mapas customizados e desenvolvi um RPG texto em Python/Flask
+- 🎲 Nas horas vagas, organizo campanhas de **Dungeons & Dragons (5.5)**, crio mapas customizados e desenvolvi o **Dungeon of Goblins**, um RPG de texto em Python/Flask com mecânicas D&D
 
 ---
 
@@ -66,7 +66,7 @@ Sou apaixonado por tecnologia e segurança da informação, com foco no desenvol
 **Sistemas e Infraestrutura:**
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Parrot OS" src="https://img.shields.io/badge/Parrot_OS-38C7D4?style=for-the-badge" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
@@ -74,20 +74,19 @@ Sou apaixonado por tecnologia e segurança da informação, com foco no desenvol
 
 ### 📁 Projetos em Destaque
 
-**🔴 [Micro-IDS/WAF](https://github.com/SEU_USUARIO_GITHUB/micro-ids-waf)**
-Ferramenta de segurança em Python puro (zero dependências externas), com alertas por email, relatórios em XLSX e login com UI glassmorphism.
+**🔴 [TR1GG3R SIEM](https://github.com/r1g00d/trigger_siem)**
+IDS/WAF educacional em Python puro (stdlib apenas, zero dependências externas) com frontend HTML/CSS/JS vanilla. Detecta e bloqueia SQL Injection, XSS, brute force, path traversal e scanners (sqlmap, nikto, hydra, nmap) em tempo real. Possui sistema dual de alerta por e-mail (resumo pessoal + log detalhado), rate limiting por IP via SQLite e interface com estética "Liquid Glass".
 
 **🌍 [Solo Nativo](https://github.com/r1g00d/solo-nativo)**
 Plataforma educacional sobre geografia, biomas e geopolítica brasileira — projeto acadêmico da UNIFRAN. Atuo como Product Owner e Developer, com diagramas UML, fluxos BPMN e documentação ABNT.
-
 
 ---
 
 ### 📈 O que estou estudando atualmente?
 
 - Aprofundamento em metodologias de pentest e análise de vulnerabilidades, rumo ao CompTIA Sec+ e OSCP
-- Criação de scripts em Python/Bash para automação de tarefas diárias e setup de ambientes
-- Alemão via Clube de Alemão (YouTube), com plano de mudança para a Europa (Alemanha/Munique) nos próximos anos
+- Fundamentos de Blue Team/SOC em paralelo (SIEM, triagem de alertas, MITRE ATT&CK, resposta a incidentes)
+- Criação de scripts em Python/Bash para automação de tarefas diárias, setup de ambientes e ferramentas próprias como o TR1GG3R SIEM
 - Desenvolvimento de aplicações lógicas, como jogos baseados em texto
 
 ---
@@ -96,8 +95,8 @@ Plataforma educacional sobre geografia, biomas e geopolítica brasileira — pro
 
 | Empresa | Cargo | Foco |
 |---|---|---|
-| **Positivo TecnologIA** | TI Júnior | Infraestrutura de TI | Suporte de campo, gestão de sistemas
-| **Solutis / Sabesp Project** | Field Support | Infraestrutura, troubleshooting | Active Directory and Hardware
+| **Positivo Tecnologia** | TI Júnior | Suporte de campo, gestão de sistemas |
+| **Solutis / Projeto Sabesp** | Field Support | Infraestrutura, troubleshooting, Active Directory e Hardware |
 | **Magazine Luiza** | Infraestrutura de TI | Suporte de campo, gestão de sistemas |
 
 ---
