@@ -1,4 +1,5 @@
-# Oi, eu sou o João! 
+cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
+# Oi, eu sou o João! 🐉
 
 <img width="90" height="90" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
 
@@ -20,11 +21,11 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 
 ## 🕶️ Dossiê do Operador
 
-- 🎓 Cursando **Engenharia da Software** — Universidade de Franca (**UNIFRAN**)
+- 🎓 Cursando **Engenharia de Software** — Universidade de Franca (**UNIFRAN**)
 - 💼 **Analista de Suporte de Campo** — 3+ anos em infraestrutura e resolução de problemas corporativos
 - 🔴 Participante do programa **Hackers do Bem**
 - 💻 Usuário intermediário de **Kali Linux 🐉🔷**, com automação via shell scripting
-- 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy** and **TryHackMe** diariamente 
+- 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy** e **TryHackMe** diariamente
 - 👾 Fora do terminal: mestre de **D&D**, criador de mapas customizados e dev do **Dungeon of Goblins** — RPG de texto em Python/Flask
 
 ---
@@ -53,6 +54,18 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 </td>
 </tr>
 </table>
+
+---
+
+## 🧪 Plataformas de Prática
+
+<p>
+  <a href="https://tryhackme.com/p/r11gg0d" target="_blank">
+    <img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img alt="PortSwigger Academy" src="https://img.shields.io/badge/-PortSwigger_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+</p>
 
 ---
 
@@ -87,7 +100,6 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <td>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C++?style=for-the-badge&logo=flask&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -98,6 +110,12 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </td>
 </tr>
+<tr>
+<td><strong>🧪 Em Exploração</strong></td>
+<td>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</td>
+</tr>
 </table>
 
 ---
@@ -106,7 +124,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 
 ### 🔴 [TR1GG3R SIEM](https://github.com/r1g00d/trigger_siem) <img src="https://img.shields.io/badge/★-PROJETO_PRINCIPAL-FF003C?style=flat-square&labelColor=0d1117" />
 
-IDS/WAF educacional em **Python puro** (stdlib apenas, zero dependências externas), com frontend HTML/CSS/JS (vibe coded).
+IDS/WAF educacional em **Python puro** (stdlib apenas, zero dependências externas), com frontend HTML/CSS/JS sem frameworks.
 
 ```text
 $ trigger_siem --status
@@ -132,6 +150,7 @@ Plataforma educacional de geografia, biomas e geopolítica brasileira — projet
 - 🎯 Pentest e análise de vulnerabilidades, rumo ao **CompTIA Sec+** e **OSCP**
 - 🌐 Fundamentos de Blue Team/SOC em paralelo — triagem de alertas, resposta a incidentes
 - 🔧 Scripts Python/Bash para automação e ferramentas próprias (ex: TR1GG3R SIEM)
+- 🧪 Explorando **C++** como próxima linguagem de estudo
 
 ---
 
@@ -141,7 +160,7 @@ Plataforma educacional de geografia, biomas e geopolítica brasileira — projet
 |---|---|---|
 | **Positivo Tecnologia** | T.I Júnior | Suporte de campo, gestão de sistemas |
 | **Solutis / Projeto Sabesp** | Analista de T.I PL | Infraestrutura, Active Directory, Hardware |
-| **Magazine Luiza** | Assistente PL de Atendimento | Suporte em questões criticas, gestão de sistemas e melhoria contínua |
+| **Magazine Luiza** | Assistente PL de Atendimento | Suporte em questões críticas, gestão de sistemas e melhoria contínua |
 
 ---
 
@@ -167,11 +186,13 @@ Buscando: pentest real, com supervisão_
   <a href="mailto:r11gg0d@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://tryhackme.com/p/r11gg0d">
-    <img src="https://img.shields.io/badge/TRYHACKME?link=https%3A%2F%2Ftryhackme.com%2F_next%2Fstatic%2Fmedia%2Ftryhackme_logo_full_dark.406f839bc8453d32.svg" alt="TRYHACKME">
-  </a>
 </p>
 
 ```text
 [EOF] conexão estável — aguardando handshake do recrutador_
 ```
+ENDOFFILE
+wc -l /mnt/user-data/outputs/README.md
+
+Saída
+192 /mnt/user-data/outputs/README.md
