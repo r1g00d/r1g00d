@@ -1,119 +1,175 @@
-# Olá, eu sou o João! <img width="64" height="64" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
+# Oi, eu sou o João! 🐉
 
-### 🛡️ Estudante de Cibersegurança | Estudante de Engenharia de Software | Analista de Suporte
+<img width="80" height="80" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
 
-Sou apaixonado por tecnologia e segurança da informação, com foco no desenvolvimento de automações e na exploração de sistemas. Atualmente, estou direcionando minha carreira para posições de nível de entrada em **Red Team**, com estudo complementar de **Blue Team/SOC**, aplicando meus conhecimentos em arquitetura de redes, OSINT e customização de ambientes Linux.
+```text
+> BOOT SEQUENCE INICIADA...
+> CARREGANDO IDENTIDADE: João Victor Rigo // handle: r1g00d
+> CLASSE: Red Team Operator [ENTRY-LEVEL] :: Blue Team/SOC Support
+> STATUS: ONLINE — canal aberto para novas conexões_
+```
 
-<p>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Aberto_a_oportunidades-brightgreen?style=for-the-badge" />
-  <img alt="Foco" src="https://img.shields.io/badge/Foco-Red_Team_Entry--Level-critical?style=for-the-badge" />
+Netrunner em formação, navegando entre redes corporativas e laboratórios de teste. Direciono minha carreira para **Red Team (entry-level)**, com estudo complementar em **Blue Team/SOC**, aplicando arquitetura de redes, OSINT e Linux no dia a dia.
+
+<p align="left">
+  <img alt="Status" src="https://img.shields.io/badge/STATUS-ABERTO_A_OPORTUNIDADES-39FF14?style=for-the-badge&labelColor=0d1117" />
+  <img alt="Foco" src="https://img.shields.io/badge/FOCO-RED_TEAM_ENTRY--LEVEL-FF003C?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+## 🕶️ Dossiê do Operador
 
-- 🎓 Cursando **Engenharia da Computação** na Universidade de Franca (**UNIFRAN**)
-- 💼 Atuando como **Analista de Suporte de Campo**, com sólida experiência em resolução de problemas, operações e infraestrutura de TI corporativa (3+ anos)
-- 🔐 Participante do programa **Hackers do Bem** e pesquisador ativo de protocolos de rede e ferramentas de segurança
-- 🏆 **PRE SEC** certificado (TryHackMe) | **eJPT** em andamento | **OSCP** como meta de longo prazo
-- 🐧 Usuário avançado de **Kali Linux** e entusiasta de automação via shell scripting
-- 🎯 Prática hands-on: 3+ máquinas exploradas no **HackTheBox** (reconhecimento, enumeração, exploitation) + trilhas no **PortSwigger Academy**
-- 🎲 Nas horas vagas, organizo campanhas de **Dungeons & Dragons (5.5)**, crio mapas customizados e desenvolvi o **Dungeon of Goblins**, um RPG de texto em Python/Flask com mecânicas D&D
-
----
-
-### 🎯 Caminho de Certificações
-
-<p>
-  <img alt="PRE SEC" src="https://img.shields.io/badge/PRE_SEC-Concluído-brightgreen?style=for-the-badge" />
-  <img alt="eJPT" src="https://img.shields.io/badge/eJPT-Em_progresso-yellow?style=for-the-badge" />
-  <img alt="OSCP" src="https://img.shields.io/badge/OSCP-Meta-lightgrey?style=for-the-badge" />
-</p>
+- 🎓 Cursando **Engenharia da Computação** — Universidade de Franca (**UNIFRAN**)
+- 💼 **Analista de Suporte de Campo** — 3+ anos em infraestrutura e resolução de problemas corporativos
+- 🔴 Participante do programa **Hackers do Bem**
+- 💻 Usuário avançado de **Kali Linux**, com automação via shell scripting
+- 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy**
+- 👾 Fora do terminal: mestre de **D&D (5.5)**, criador de mapas customizados e dev do **Dungeon of Goblins** — RPG de texto em Python/Flask
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🎯 Trilha de Certificações
 
-**Segurança Ofensiva:**
-<p>
-  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+<table border="0" cellspacing="0" cellpadding="6">
+<tr align="center">
+<td>
 
-**OSINT:**
-<p>
-  <img alt="Shodan" src="https://img.shields.io/badge/Shodan-FF4D4D?style=for-the-badge&logo=shodan&logoColor=white" />
-  <img alt="OSINT" src="https://img.shields.io/badge/OSINT-Sherlock_|_Maigret-4B0082?style=for-the-badge" />
-</p>
+<img alt="PRE SEC" src="https://img.shields.io/badge/PRE_SEC-CONCLUÍDO-39FF14?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>✅ nó comprometido</sub>
 
-**Blue Team / SOC:**
-<p>
-  <img alt="SIEM" src="https://img.shields.io/badge/SIEM-Sentinel_|_Splunk_|_QRadar-1E3A8A?style=for-the-badge" />
-  <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-A9302E?style=for-the-badge" />
-</p>
+</td>
+<td>
 
-**Desenvolvimento e Automação:**
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+<img alt="eJPT" src="https://img.shields.io/badge/eJPT-EM_PROGRESSO-FFD500?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>⚡ decriptando...</sub>
 
-**Sistemas e Infraestrutura:**
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+</td>
+<td>
+
+<img alt="OSCP" src="https://img.shields.io/badge/OSCP-PRÓXIMO_ALVO-8A2BE2?style=for-the-badge&labelColor=0d1117" /><br/>
+<sub>🔒 firewall ativo</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📁 Projetos em Destaque
+## 🔌 Arsenal Tecnológico
 
-**🔴 [TR1GG3R SIEM](https://github.com/r1g00d/trigger_siem)**
-IDS/WAF educacional em Python puro (stdlib apenas, zero dependências externas) com frontend HTML/CSS/JS vanilla. Detecta e bloqueia SQL Injection, XSS, brute force, path traversal e scanners (sqlmap, nikto, hydra, nmap) em tempo real. Possui sistema dual de alerta por e-mail (resumo pessoal + log detalhado), rate limiting por IP via SQLite e interface com estética "Liquid Glass".
-
-**🌍 [Solo Nativo](https://github.com/r1g00d/solo-nativo)**
-Plataforma educacional sobre geografia, biomas e geopolítica brasileira — projeto acadêmico da UNIFRAN. Atuo como Product Owner e Developer, com diagramas UML, fluxos BPMN e documentação ABNT.
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="170"><strong>🔴 Ofensiva</strong></td>
+<td>
+<img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+<img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>🕶️ OSINT</strong></td>
+<td>
+<img alt="Shodan" src="https://img.shields.io/badge/Shodan-FF4D4D?style=for-the-badge&logo=shodan&logoColor=white" />
+<img alt="OSINT" src="https://img.shields.io/badge/OSINT-Sherlock_|_Maigret-4B0082?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td><strong>🌐 Blue Team / SOC</strong></td>
+<td>
+<img alt="SIEM" src="https://img.shields.io/badge/SIEM-Sentinel_|_Splunk_|_QRadar-1E3A8A?style=for-the-badge" />
+<img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-A9302E?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td><strong>💻 Dev &amp; Automação</strong></td>
+<td>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>🖥️ Infraestrutura</strong></td>
+<td>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 O que estou estudando atualmente?
+## 👾 Projetos em Destaque
 
-- Aprofundamento em metodologias de pentest e análise de vulnerabilidades, rumo ao CompTIA Sec+ e OSCP
-- Fundamentos de Blue Team/SOC em paralelo (SIEM, triagem de alertas, MITRE ATT&CK, resposta a incidentes)
-- Criação de scripts em Python/Bash para automação de tarefas diárias, setup de ambientes e ferramentas próprias como o TR1GG3R SIEM
-- Desenvolvimento de aplicações lógicas, como jogos baseados em texto
+### 🔴 [TR1GG3R SIEM](https://github.com/r1g00d/trigger_siem) <img src="https://img.shields.io/badge/★-PROJETO_PRINCIPAL-FF003C?style=flat-square&labelColor=0d1117" />
+
+IDS/WAF educacional em **Python puro** (stdlib apenas, zero dependências externas), com frontend HTML/CSS/JS vanilla e interface estilo "Liquid Glass".
+
+```text
+$ trigger_siem --status
+[SCAN] SQL Injection ......... BLOQUEADO + alerta disparado
+[SCAN] XSS .................... BLOQUEADO + registrado
+[SCAN] Brute Force ............ IP banido (300s) após 5 tentativas
+[SCAN] Path Traversal ......... BLOQUEADO
+[SCAN] Scanner/Bot detectado .. sqlmap / nikto / hydra / nmap
+[LOG]  Alerta dual por e-mail + rate limiting via SQLite
+[OK]   Sistema operacional — 0 dependências externas_
+```
+
+**Stack:** Python (`http.server` · `sqlite3` · `smtplib` · `threading`) · HTML5/CSS3/JS vanilla
+
+### 🌍 [Solo Nativo](https://github.com/r1g00d/solo-nativo)
+
+Plataforma educacional de geografia, biomas e geopolítica brasileira — projeto acadêmico da UNIFRAN. Atuo como **Product Owner e Developer**, com diagramas UML, fluxos BPMN e documentação ABNT.
 
 ---
 
-### 💼 Experiência Profissional
+## 📡 Uplink em Progresso (Estudos Atuais)
+
+- 🎯 Pentest e análise de vulnerabilidades, rumo ao **CompTIA Sec+** e **OSCP**
+- 🌐 Fundamentos de Blue Team/SOC em paralelo — triagem de alertas, resposta a incidentes
+- 🔧 Scripts Python/Bash para automação e ferramentas próprias (ex: TR1GG3R SIEM)
+
+---
+
+## 💼 Registro de Missões
 
 | Empresa | Cargo | Foco |
 |---|---|---|
 | **Positivo Tecnologia** | TI Júnior | Suporte de campo, gestão de sistemas |
-| **Solutis / Projeto Sabesp** | Field Support | Infraestrutura, troubleshooting, Active Directory e Hardware |
+| **Solutis / Projeto Sabesp** | Field Support | Infraestrutura, Active Directory, Hardware |
 | **Magazine Luiza** | Infraestrutura de TI | Suporte de campo, gestão de sistemas |
 
 ---
 
-### 🚀 Meu Pitch
+## 🔴 Pitch de Acesso Rápido
 
-> PRE SEC (TryHackMe certificado). Stack: Nmap, Metasploit, Burp Suite, Kali Linux. Prática: 3+ máquinas HackTheBox exploradas (reconhecimento, enumeração, exploitation). Foco: Red Team entry-level. Buscando aplicar em pentest real com supervisão.
+```text
+> whoami
+João Victor Rigo [r1g00d] — PRE SEC certificado (TryHackMe)
+Stack: Nmap · Metasploit · Burp Suite · Kali Linux
+Prática: 3+ máquinas HackTheBox (recon → enum → exploit)
+Foco: Red Team entry-level
+Buscando: pentest real, com supervisão_
+```
 
 ---
 
-### 📫 Como me encontrar
+## 🌐 Canal de Contato
 
 <p>
   <a href="https://www.linkedin.com/in/jvrigo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:r11gg0d@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+```text
+[EOF] conexão estável — aguardando handshake do recrutador_
+```
