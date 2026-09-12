@@ -1,7 +1,7 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
-# Oi, eu sou o João! 🐉
+# Oi, eu sou o João! 
+<img width="40" height="40" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
 
-<img width="90" height="90" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
+
 
 ```text
 > BOOT SEQUENCE INICIADA...
@@ -36,7 +36,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 <tr align="center">
 <td>
 
-<img alt="THM PRE SEC" src="https://img.shields.io/badge/PRE_SEC-CONCLUÍDO-39FF14?style=for-the-badge&labelColor=0d1117" /><br/>
+<img alt="THM PRE SEC" href="https://tryhackme.com/p/r11gg0d" src="https://img.shields.io/badge/PRE_SEC-CONCLUÍDO-39FF14?style=for-the-badge&labelColor=0d1117" /><br/>
 <sub>✅ nó comprometido</sub>
 
 </td>
