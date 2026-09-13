@@ -1,6 +1,4 @@
-# Oi, eu sou o João! 
-<img width="40" height="40" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" align="right" />
-
+# Oi, eu sou o João! <img width="45" height="45" alt="avatar" src="https://github.com/user-attachments/assets/7483fe83-3a0e-4982-931b-e8937f7034ab" />
 
 
 ```text
