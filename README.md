@@ -20,9 +20,9 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 ## 🕶️ Dossiê do Operador
 
 - 🎓 Cursando **Engenharia de Software** — Universidade de Franca (**UNIFRAN**)
-- 💼 **Analista de Suporte de Campo** — 3+ anos em infraestrutura e resolução de problemas corporativos
+- 💼 **Analista de Dados** — 3+ anos em infraestrutura, resolução de problemas corporativos e IA coding
 - 🔴 Participante do programa **Hackers do Bem**
-- 💻 Usuário intermediário de **Kali Linux 🐉🔷**, com automação via shell scripting
+- 💻 Usuário Júnior de **Kali Linux 🐉🔷**, web e LLM pentest 
 - 🎯 Hands-on: 3+ máquinas exploradas no **HackTheBox** (recon → enumeration → exploitation) + trilhas na **PortSwigger Academy** e **TryHackMe** diariamente
 - 👾 Fora do terminal: mestre de **D&D**, criador de mapas customizados e dev do **Dungeon of Goblins** — RPG de texto em Python/Flask
 
