@@ -12,7 +12,7 @@ Netrunner em formação, navegando entre redes corporativas e laboratórios de t
 
 <p align="left">
   <img alt="Status" src="https://img.shields.io/badge/STATUS-ABERTO_A_OPORTUNIDADES-39FF14?style=for-the-badge&labelColor=0d1117" />
-  <img alt="Foco" src="https://img.shields.io/badge/FOCO-RED_TEAM_ENTRY--LEVEL-FF003C?style=for-the-badge&labelColor=0d1117" />
+  <img alt="Foco" src="https://img.shields.io/badge/FOCO-RED_TEAM_AND_PENTESTER_ENTRY--LEVEL-FF003C?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
